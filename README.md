@@ -47,7 +47,7 @@
     <h3>Installation:</h3>
     <ol>
         <li>Clone the repository:</li>
-        <code>git clone https://github.com/your-username/Travel-Booking-Chatbot.git</code>
+        <code>git clone https://github.com/ijlalkhanzada/Travel-Booking-Chatbot.git</code>
         <li>Navigate to the project directory:</li>
         <code>cd Travel-Booking-Chatbot</code>
         <li>Install dependencies:</li>
