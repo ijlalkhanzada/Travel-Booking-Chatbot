@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel-Booking-Chatbot</title>
+    
 </head>
 <body>
     <h1>Travel-Booking-Chatbot</h1>
@@ -47,7 +47,7 @@
     <h3>Installation:</h3>
     <ol>
         <li>Clone the repository:</li>
-        <code>git clone https://github.com/ijlalkhanzada/Travel-Booking-Chatbot.git</code>
+        <code>gh repo clone ijlalkhanzada/Travel-Booking-Chatbot</code>
         <li>Navigate to the project directory:</li>
         <code>cd Travel-Booking-Chatbot</code>
         <li>Install dependencies:</li>
@@ -59,8 +59,6 @@
         <code>npm start</code>
         <li>Access the chatbot interface through your preferred messaging platform or web browser.</li>
     </ol>
-    <h2>Contributing:</h2>
-    <p>Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
     <h2>About:</h2>
     <p>Travel-Booking-Chatbot aims to simplify the travel booking process and enhance the overall user experience. Whether you're a frequent traveler or planning your next adventure, let our chatbot be your virtual travel assistant, guiding you through every step of the journey.</p>
 </body>
